@@ -18,6 +18,17 @@ Search contacts: based on name and phone number
 Edit contacts: edit information given while adding the contacts – name, phone number, address, and email
 Delete contacts: deletes contacts from file
 
+Cost and Features with Time
+
+In order to determine the cost to develop Contact management system, a few aspects are to be considered first:
+
+• Size of the App: More the features, more the cost.
+
+• Number of Platforms: As the number of platforms are increased cost will also be increased significantly.
+
+• If Indian App firm is chosen to create a Contact Management System then the cost can 25,000rs. 
+ This estimate is when the system is being developed with basic features and for a single platform.
+
 4W's and 1'H
 
 Who:
