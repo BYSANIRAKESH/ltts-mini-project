@@ -1,12 +1,12 @@
 4W's and 1'H
 Who:
-
+Contact Managment is used by educational institutions like schools, colleges and universities.
 
 What:
-TBD
+Able to keep track of all the books effectively.
 
 When:
-TBD
+In past Contacts used manual documents to keep track of the numbers, but with advances in technology this can be done digitally now.
 
 Where:
 TBD
