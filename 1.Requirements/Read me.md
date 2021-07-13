@@ -9,7 +9,7 @@ When:
 In past Contacts used manual documents to keep track of the numbers, but with advances in technology this can be done digitally now.
 
 Where:
-TBD
+Contact management system can be used all over the world.
 
 How:
-TBD
+This system helps to store, display and search various  numbers and their information present in the contact
