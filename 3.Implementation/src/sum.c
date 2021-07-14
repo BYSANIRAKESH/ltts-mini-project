@@ -1,4 +1,4 @@
-#include"sum.h"
-float sum(int a,int b){
-    return a+b;
+#include"hello.h"
+void hello(void){
+    printf("\n\t ****Welcome to ltts contact management ****");
 }
