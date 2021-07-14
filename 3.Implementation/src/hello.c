@@ -1,4 +1,4 @@
 #include"hello.h"
 void hello(void){
-    printf("\n\t ****Welcome to ltts contact management ****");
+    return printf("\n\t ****Welcome to ltts contact management ****");
 }
