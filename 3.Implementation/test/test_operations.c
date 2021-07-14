@@ -1,10 +1,10 @@
 #include "unity.h"
 	#include"test_operations.h"
-	#include"sum.h"
+	#include"hello.h"
 	
 
 	
-	void test_sum(void);
+	void test_hello(void);
 	
 	void setUp()
 	{	}
@@ -17,7 +17,7 @@
 	{
 	  	UNITY_BEGIN();
   	
-	  	RUN_TEST(test_sum);
+	  	RUN_TEST(test_hello);
 		
 		
 		
@@ -25,9 +25,8 @@
   		return UNITY_END();
 	}
 
-	void test_sum(void)
+	void test_hello(void)
 	{
-  		TEST_ASSERT_EQUAL(30, sum(10, 20));
-  		TEST_ASSERT_EQUAL(-30, sum(-50, 20));
+  	
 	}
 	
