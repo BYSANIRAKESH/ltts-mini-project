@@ -1,5 +1,5 @@
-#ifndef __SUM_H__
-#define _SUM_H__
-float sum(int a ,int b);
+#ifndef __HELLO_H__
+#define _HELLO_H__
+void hello(void);
 
 #endif
