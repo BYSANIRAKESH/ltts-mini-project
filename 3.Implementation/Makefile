@@ -1,5 +1,5 @@
 SRC=code.c\
-src/sum.c\
+src/hello.c\
 test/test_operations.c\
 unity/unity.c\
 
