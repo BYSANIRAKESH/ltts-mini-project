@@ -58,7 +58,7 @@ This system helps to store, display and search various  numbers and their inform
 
 ## Table no: Low level test plan
 
-| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  | **Pass or fail**                 | 
-|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|-----------------------------------|
+| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  | **Pass or fail**| 
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|------------------|
 |  L_01       |Checking the result obtained for add,edit,view,delete,search  |    By giving different values| Correct answer according to the input values |Obtained the required results for all the operations|Requirement based    |Pass |
 |  L_02       |Checking whether exit option works properly or not  |    By selecting the correct option| Screen should be closed  |Screen closed properly |Scenario based    |Pass|
